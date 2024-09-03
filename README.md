@@ -1,2 +1,0 @@
-# Card-Blog
-Frontend Mentor
